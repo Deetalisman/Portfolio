@@ -42,6 +42,7 @@ export default function Home() {
           
           "
             className="flex cursor-pointer group mt-6"
+            target="-blank"
           >
             <p>01</p>
             <hr className="w-13 group-hover:w-17 mt-2 ml-3 mr-3"></hr>
@@ -50,6 +51,7 @@ export default function Home() {
           <Link
             href="https://github.com/Deetalisman"
             className="flex cursor-pointer group mt-6"
+            target="-blank"
           >
             <p>02</p>
             <hr className="w-13 group-hover:w-17 mt-2 ml-3 mr-3"></hr>
@@ -58,6 +60,7 @@ export default function Home() {
           <Link
             href="https://www.linkedin.com/in/ismail-ajiboye-52207b27a/"
             className="flex cursor-pointer group mt-6"
+            target="-blank"
           >
             <p>03</p>
             <hr className="w-13 group-hover:w-17 mt-2 ml-3 mr-3"></hr>
@@ -77,6 +80,7 @@ export default function Home() {
             <Link
               href="https://deequickcart.vercel.app/"
               className=" text-gray-300 text-[0.9rem] underline"
+              target="-blank"
             >
               Live site
             </Link>
@@ -90,6 +94,7 @@ export default function Home() {
             <Link
               href="https://deeburgershop.vercel.app/"
               className=" text-gray-300 text-[0.9rem] underline"
+              target="-blank"
             >
               Live site
             </Link>
@@ -104,6 +109,7 @@ export default function Home() {
             <Link
               href="https://deeinvoice-app.vercel.app/"
               className=" text-gray-300 text-[0.9rem] underline"
+              target="-blank"
             >
               Live site
             </Link>
@@ -118,6 +124,7 @@ export default function Home() {
             <Link
               href="https://deeiptracker.netlify.app/"
               className=" text-gray-300 text-[0.9rem] underline"
+              target="-blank"
             >
               Live site
             </Link>
@@ -132,6 +139,7 @@ export default function Home() {
             <Link
               href="https://dee-country.vercel.app/"
               className=" text-gray-300 text-[0.9rem] underline"
+              target="-blank"
             >
               Live site
             </Link>
@@ -146,6 +154,7 @@ export default function Home() {
             <Link
               href="https://dee-packinglist.vercel.app/"
               className=" text-gray-300 text-[0.9rem] underline"
+              target="-blank"
             >
               Live site
             </Link>
