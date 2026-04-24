@@ -72,6 +72,23 @@ export default function Home() {
         <p className="text-gray-500">Projects</p>
         <figure className="mt-5">
           <div className="bg-[#1c1c1f] p-8">
+            <h1 className="text-lg">The Wild Oasis</h1>
+            <p className="text-[0.78rem]  text-gray-400">
+              NEXT JS + TAILWIND + LOCAL STORAGE
+            </p>
+            <p className="mt-5 mb-7 text-gray-600 text-[0.78rem]">
+              A cabin booking website,where user can sign up and make
+              reservations.
+            </p>
+            <Link
+              href="https://deequickcart.vercel.app/"
+              className=" text-gray-300 text-[0.9rem] underline"
+              target="-blank"
+            >
+              Live site
+            </Link>
+          </div>
+          <div className="bg-[#1c1c1f] p-8">
             <h1 className="text-lg">Quick Cart</h1>
             <p className="text-[0.78rem]  text-gray-400">NEXT JS + TAILWIND</p>
             <p className="mt-5 mb-7 text-gray-600 text-[0.78rem]">
