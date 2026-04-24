@@ -81,7 +81,7 @@ export default function Home() {
               reservations.
             </p>
             <Link
-              href="https://deequickcart.vercel.app/"
+              href="https://deewildoasis.vercel.app/"
               className=" text-gray-300 text-[0.9rem] underline"
               target="-blank"
             >
