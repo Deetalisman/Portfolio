@@ -88,7 +88,7 @@ export default function Home() {
               Live site
             </Link>
           </div>
-          <div className="bg-[#1c1c1f] p-8">
+          <div className="bg-[#1c1c1f] p-8 mt-7">
             <h1 className="text-lg">Quick Cart</h1>
             <p className="text-[0.78rem]  text-gray-400">NEXT JS + TAILWIND</p>
             <p className="mt-5 mb-7 text-gray-600 text-[0.78rem]">
