@@ -109,7 +109,7 @@ export default function Home() {
               Landing page for a Burgershop where users can check for burgers.
             </p>
             <Link
-              href="https://deeburgershop.vercel.app/"
+              href="https://the-burgershop.vercel.app/"
               className=" text-gray-300 text-[0.9rem] underline"
               target="-blank"
             >
